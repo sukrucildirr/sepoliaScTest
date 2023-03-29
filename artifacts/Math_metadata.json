@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Standard math utilities missing in the Solidity language.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"sepoliaScTest.sol_flattened.sol": "Math"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"sepoliaScTest.sol_flattened.sol": {
+			"keccak256": "0x30e15ccdad8fa92c24f7cd649de068c940ac7feb7a25f0d89b1d435d028a5519",
+			"urls": [
+				"bzz-raw://51728063129fdf440969e6cd6ee63cc44b7913702b86c3988eaa6d15b15a8224",
+				"dweb:/ipfs/Qmf56bbjrGTfxRMUt3GbNb5AV5jYGizZUbmRfmsySVdLec"
+			]
+		}
+	},
+	"version": 1
+}
